@@ -1,1 +1,1 @@
-
+const currentDate = new Date();
