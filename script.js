@@ -14,5 +14,5 @@ function formatDateLong(dateObj) {
   month: 'long',
   day: 'numeric'
 });
-  return `Formatted Date (Month Day; Year): ${longDate}`;
+  return `Formatted Date (Month Day, Year): ${longDate}`;
 };
